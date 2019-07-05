@@ -4,8 +4,8 @@ Nisegram(Instagram clone) build with Express + Prisma + React and React Native
 ## User Stroies
 
 - [x] Create account
-- [ ] Request Secret
-- [ ] Confirm Secret (Login)s
+- [x] Request Secret
+- [x] Confirm Secret (Login)
 - [ ] Like / Unlike a photo
 - [ ] Coment on a photo
 - [ ] Search by user
