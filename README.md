@@ -11,9 +11,10 @@ Nisegram(Instagram clone) build with Express + Prisma + React and React Native
 - [x] Search by user
 - [x] Search by location
 - [x] Follow / Unfollow User
-- [ ] See user profile
+- [x] Edit my profile
+- [x] See user profile
+- [ ] See my profile
 - [ ] See the full photo
-- [ ] Edit my profile
 - [ ] Upload a photo
 - [ ] Edit the photo (Delete)
 - [ ] See the feed
