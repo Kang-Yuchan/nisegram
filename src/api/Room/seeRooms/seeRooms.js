@@ -1,9 +1,10 @@
 import { prisma } from "../../../../generated/prisma-client";
+import { ROOM_FRAGMENT } from "../../../fragments";
 
 export default {
     Query: {
-        seeRooms: (_, __, { request, istAuthenticated }) => {
-            istAuthenticated(request);
+        seeRooms: (_, __, { request, isAuthenticated }) => {
+            isAuthenticated(request);
             const { user } = request;
             return prisma.rooms({ 
                 where: {
@@ -11,7 +12,8 @@ export default {
                         id: user.id
                     }
                 }
-            });
+            })
+            .$fragment(ROOM_FRAGMENT);
         }
     }
 };
