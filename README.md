@@ -1,4 +1,4 @@
-# nisegram
+# nisegram(backend)
 Nisegram(Instagram clone) build with Express + Prisma + GraphQL + Apollo + React and React Native
 
 ## User Stroies
