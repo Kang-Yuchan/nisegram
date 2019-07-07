@@ -1,5 +1,7 @@
-import { prisma } from "../../../generated/prisma-client";
-import { ROOM_FRAGMENT } from "../../fragments";
+
+import { ROOM_FRAGMENT } from "../../../fragments";
+import { prisma } from "../../../../generated/prisma-client";
+
 
 export default {
     Mutation: {

@@ -22,4 +22,4 @@ Nisegram(Instagram clone) build with Express + Prisma + GraphQL + Apollo + React
 - [x] See rooms
 - [x] Send private Message
 - [x] See room
-- [ ] Receive Message (Realtime)
+- [x] Receive Message (Realtime)
