@@ -1,5 +1,5 @@
 # nisegram
-Nisegram(Instagram clone) build with Express + Prisma + React and React Native
+Nisegram(Instagram clone) build with Express + Prisma + GraphQL + Apollo + React and React Native
 
 ## User Stroies
 
@@ -18,3 +18,7 @@ Nisegram(Instagram clone) build with Express + Prisma + React and React Native
 - [ ] Upload a photo
 - [ ] Edit the photo (Delete)
 - [ ] See the feed
+- [ ] See rooms
+- [ ] See room
+- [ ] Send private Message
+- [ ] Receive Message (Realtime)
