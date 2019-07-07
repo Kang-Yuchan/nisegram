@@ -15,8 +15,9 @@ Nisegram(Instagram clone) build with Express + Prisma + GraphQL + Apollo + React
 - [x] See user profile
 - [x] See my profile
 - [x] See the full photo
-- [ ] Upload a photo
-- [ ] Edit the photo (Delete)
+- [x] Upload a photo
+- [x] Edit the photo 
+- [x] Delete the photo
 - [ ] See the feed
 - [ ] See rooms
 - [ ] See room
