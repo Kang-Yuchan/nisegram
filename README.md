@@ -1,4 +1,4 @@
-# nisegram
+# nisegram(backend)
 Nisegram(Instagram clone) build with Express + Prisma + GraphQL + Apollo + React and React Native
 
 ## User Stroies
@@ -22,4 +22,8 @@ Nisegram(Instagram clone) build with Express + Prisma + GraphQL + Apollo + React
 - [x] See rooms
 - [x] Send private Message
 - [x] See room
+<<<<<<< HEAD
 - [x] Receive Message (Realtime)
+=======
+- [ ] Receive Message (Realtime)
+>>>>>>> 3235db1aef382789585c8ce98fe0b8856ae0a6a5
