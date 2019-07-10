@@ -1,6 +1,9 @@
 type User {
   id: ID! @id
   avatar: String
+    @default(
+      value: "https://i.gyazo.com/c8d8f0c42a307cf5139eaf13f1989705.png"
+    )
   username: String! @unique
   email: String! @unique
   firstName: String @default(value: "")
